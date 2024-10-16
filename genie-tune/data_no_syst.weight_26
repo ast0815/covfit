@@ -1,0 +1,25 @@
+# t2k_nd280_numuccqe_2018_tki
+/global#0:8                       	 1. 	 # dXSec_ddpt                          	 : 0. : 2. 	 # dXSec_ddpt
+/global#8:16                      	 0. 	 # dXSec_ddphit                        	 : 0. : 2. 	 # dXSec_ddphit
+/global#16:24                     	 1. 	 # dXSec_ddalphat                      	 : 0. : 2. 	 # dXSec_ddalphat
+
+# t2k_nd280_numucc1pi_2021_tki
+/global#24:29                     	 1. 	 # dXSec_ddptt                         	 : 0. : 2. 	 # dXSec_ddptt
+/global#29:33                     	 1. 	 # dXSec_dpn                           	 : 0. : 2. 	 # dXSec_dpn
+/global#33:36                     	 1. 	 # dXSec_ddalphat                      	 : 0. : 2. 	 # dXSec_ddalphat
+
+# minerva_numu_ccnp0pi_2020_tki
+/global#36:60                     	 1. 	 # dXSec_dpn                           	 : 0. : 2. 	 # dXSec_dpn
+/global#60:84                     	 0. 	 # dXSec_ddpt                          	 : 0. : 2. 	 # dXSec_ddpt
+/global#84:96                     	 1. 	 # dXSec_ddalphat                      	 : 0. : 2. 	 # dXSec_ddalphat
+/global#96:119                    	 0. 	 # dXSec_ddphit                        	 : 0. : 2. 	 # dXSec_ddphit
+/global#119:144                   	 0. 	 # dXSec_dpmom                         	 : 0. : 2. 	 # dXSec_dpmom
+/global#144:170                   	 0. 	 # dXSec_dptheta                       	 : 0. : 2. 	 # dXSec_dptheta
+/global#170:202                   	 0. 	 # dXSec_ddptx                         	 : 0. : 2. 	 # dXSec_ddptx
+/global#202:235                   	 0. 	 # dXSec_ddpty                         	 : 0. : 2. 	 # dXSec_ddpty
+
+# minerva_numu_ccpi0_2020_tki
+/global#235:247                   	 1. 	 # dXSec_dpn                           	 : 0. : 2. 	 # dXSec_dpn
+/global#247:256                   	 1. 	 # dXSec_ddalphat                      	 : 0. : 2. 	 # dXSec_ddalphat
+/global#256:269                   	 1. 	 # dXSec_ddptt                         	 : 0. : 2. 	 # dXSec_ddptt
+
